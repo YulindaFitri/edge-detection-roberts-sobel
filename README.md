@@ -1,33 +1,33 @@
 **🔍 Deteksi Tepi: Roberts vs Sobel**
 
-*Implementasi dan perbandingan operator Roberts dan Sobel untuk deteksi tepi menggunakan Python*
+ *Implementasi dan perbandingan operator Roberts dan Sobel untuk deteksi tepi menggunakan Python*
 
-*Tugas Pengolahan Citra Digital | TI23E*
+ *Tugas Pengolahan Citra Digital | TI23E*
 
 
 **📖 Tentang Project**
 
-Project ini adalah implementasi from scratch (tanpa OpenCV) dari dua operator klasik deteksi tepi:
+ Project ini adalah implementasi from scratch (tanpa OpenCV) dari dua operator klasik deteksi tepi:
 
-•	🔷 Operator Roberts (1965) - Kernel 2×2, cepat tapi sensitif
+  •	🔷 Operator Roberts (1965) - Kernel 2×2, cepat tapi sensitif
 
-•	🔶 Operator Sobel (1968) - Kernel 3×3, robust dan stabil
+  •	🔶 Operator Sobel (1968) - Kernel 3×3, robust dan stabil
 
-Program ini membandingkan kedua operator secara lengkap dengan analisis kuantitatif dan visualisasi 12 panel.
+ Program ini membandingkan kedua operator secara lengkap dengan analisis kuantitatif dan visualisasi 12 panel.
 
 
 
 **🎯 Fitur**
 
-✅ Implementasi Manual - Pure NumPy, no OpenCV
+  ✅ Implementasi Manual - Pure NumPy, no OpenCV
 
-✅ Analisis Lengkap - 8+ metrics kuantitatif
+  ✅ Analisis Lengkap - 8+ metrics kuantitatif
 
-✅ Visualisasi Keren - 12 panel comparison
+  ✅ Visualisasi Keren - 12 panel comparison
 
-✅ Auto Save - Output tersimpan otomatis
+  ✅ Auto Save - Output tersimpan otomatis
 
-✅ Dokumentasi Lengkap - Code comments & laporan
+  ✅ Dokumentasi Lengkap - Code comments & laporan
 
 
 
